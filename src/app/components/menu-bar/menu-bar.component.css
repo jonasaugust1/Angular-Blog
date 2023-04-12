@@ -1,0 +1,11 @@
+.container__menu-bar > ul {
+  display: flex;
+}
+
+.container__menu-bar > ul > li:first-child {
+  list-style: none;
+}
+
+.container__menu-bar > ul > li {
+  margin-right: 40px;
+}
