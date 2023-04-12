@@ -9,8 +9,7 @@
 }
 
 .big-card__img > img {
-  width: 145%;
-  min-width: 100%;
+  width: 100%;
 }
 
 .big-card__title > h2 {
